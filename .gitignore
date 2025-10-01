@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not this notebook
+!CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+
+# Don’t ignore the .gitignore file itself
+!.gitignore
+
+
